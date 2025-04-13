@@ -99,7 +99,7 @@ or ...
 ### Conclusion
 - Present the outcome at a higer level of abstraction
 
-## Userfule Tools
+## Usefule Tools
 - Thesaurus: [Thesaurus](https://www.thesaurus.com/), [Onelook](https://www.onelook.com/thesaurus/)
 - Grammar & Style: [Grammarly](https://app.grammarly.com/), [HemingwayApp](http://www.hemingwayapp.com/)
 
