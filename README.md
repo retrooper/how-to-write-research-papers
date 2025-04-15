@@ -31,7 +31,7 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
   - State your contributions clearly
 - Visualize (figures) & summarize (tables)
 - Don't let readers work hard
-  - Be consise, accurate and clear; present enough context & information
+  - Be concise, accurate and clear; present enough context & information
   - Not too many equations or graphs or paragraphs
 - Check what readers might (want/not want) and (know/not know)
 
@@ -57,7 +57,7 @@ I'm a Ph. D student working on robotics and deep learning. Like most researchers
 
 ### Abstract
 - Describe the work not the paper
-- Present concrete results rather than abstractive desription
+- Present concrete results rather than abstractive description
 ```
 1. General problem space/motivation
 2. Approach taken
@@ -94,12 +94,12 @@ or ...
 - Sufficient detail for reproducibility
 
 ### Results and Discussion
-- Interprete the results
+- Interpret the results
 
 ### Conclusion
 - Present the outcome at a higer level of abstraction
 
-## Usefule Tools
+## Useful Tools
 - Thesaurus: [Thesaurus](https://www.thesaurus.com/), [Onelook](https://www.onelook.com/thesaurus/)
 - Grammar & Style: [Grammarly](https://app.grammarly.com/), [HemingwayApp](http://www.hemingwayapp.com/)
 
